@@ -49,7 +49,7 @@ Debugging a Pendo installation today means juggling browser DevTools, running `p
 | **Chrome** | [Chrome Web Store listing](https://chromewebstore.google.com/detail/Pendo%20Install%20Validator/ihcmfkfdfpoiadcpleapkjeppmephpfa) — **Add to Chrome**. |
 | **Edge** | Open `edge://extensions`, turn on **Allow extensions from other stores**, then use the same [Chrome Web Store listing](https://chromewebstore.google.com/detail/Pendo%20Install%20Validator/ihcmfkfdfpoiadcpleapkjeppmephpfa). Updates arrive automatically. |
 
-> **Firefox:** this extension no longer ships a Firefox build. The last release is [`pendo-validate-install-1.9.2-firefox.zip`](https://github.com/jbambury94/Pendo-Validate-Install-Extension/releases/tag/v1.9.2) on the [v1.9.2 release](https://github.com/jbambury94/Pendo-Validate-Install-Extension/releases/tag/v1.9.2).
+> **Firefox:** this extension no longer ships a Firefox build. The last release is [`pendo-validate-install-1.9.2-firefox.zip`](https://github.com/pendo-io/Pendo-Install-Validator-Extension/releases/tag/v1.9.2) on the [v1.9.2 release](https://github.com/pendo-io/Pendo-Install-Validator-Extension/releases/tag/v1.9.2).
 
 **From source** (development): clone this repo and **Load unpacked** → select the `extension/` folder (Chrome or Edge). To apply code changes after editing: click the refresh icon on the extension card, then click the toolbar icon to reopen the panel.
 

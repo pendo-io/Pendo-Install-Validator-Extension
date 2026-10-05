@@ -35,4 +35,4 @@ One exception: if a model you had configured has since been deprecated, the exte
 
 ## Keeping up with changes
 
-The full version history is in [CHANGELOG.md](https://github.com/jbambury94/Pendo-Validate-Install-Extension/blob/Stable/CHANGELOG.md). Worth a quick read when a release note mentions new permissions.
+The full version history is in [CHANGELOG.md](https://github.com/pendo-io/Pendo-Install-Validator-Extension/blob/Stable/CHANGELOG.md). Worth a quick read when a release note mentions new permissions.
